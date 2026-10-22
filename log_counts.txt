@@ -1,0 +1,18 @@
+12 LS {'lines': 65536.0, 'hits': 3188.5}
+12 PS {'planes': 256.0, 'hits': 2965.72}
+12 SS {'hits': 2083.3, 'fallbacks': 1.03}
+12 HAKT {'hits': 5.65, 'wsteps': 256.0}
+12 MR {'planes': 14.41, 'lines': 230.51, 'hits': 2965.65, 'ilp': 15.73}
+12 NTV-G {'hits': 2334.95, 'fallbacks': 0.42}
+12 NTV-L {'hits': 2412.18, 'fallbacks': 0.47}
+12 ENUM {'nodes': 345.28, 'leaves': 8060.81, 'hits': 2965.72}
+12 LWS {'planes': 14.3, 'lines': 206.52, 'hits': 2965.72, 'dead': 2.81}
+18 LS {'lines': 65536.0, 'hits': 47.4}
+18 PS {'planes': 256.0, 'hits': 47.42}
+18 SS {'hits': 46.22, 'fallbacks': 2.91}
+18 HAKT {'hits': 33.4, 'wsteps': 59.45}
+18 MR {'planes': 3.58, 'lines': 18.67, 'hits': 47.41, 'ilp': 3.84}
+18 NTV-G {'hits': 45.32, 'fallbacks': 22.63}
+18 NTV-L {'hits': 45.32, 'fallbacks': 22.63}
+18 ENUM {'nodes': 24.96, 'leaves': 126.42, 'hits': 47.42}
+18 LWS {'planes': 3.55, 'lines': 13.41, 'hits': 47.42, 'dead': 1.05}
